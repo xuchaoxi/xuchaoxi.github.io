@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download English version](/files/chaoxi-RUC-english-cv.pdf) |
-[Download Chinese version](/files/chaoxi-RUC-chinese-cv.pdf)
-
 Education
 ======
 * B.S. in Computer Science and Technology, School of Information, Renmin University of China, 2017
