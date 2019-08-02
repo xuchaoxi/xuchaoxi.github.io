@@ -37,7 +37,7 @@ International Challenges
 Internship Experience
 ======
 * Visionary Intelligence Ltd, AI Lab. (Beijing) 2018.11 - Present
-  * Nuclear Cataract Automatic Grading, core development member
+  * Nuclear Cataract Detection and Automatic Grading, Prediction of Vision after Cataract Surgery. Core Development Member.
   
 Skills
 ======
