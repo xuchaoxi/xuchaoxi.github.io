@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chaoxi Xu &#8211; multimedia intelligence"
+title: "Chaoxi Xu &#8211; vision intelligence"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
