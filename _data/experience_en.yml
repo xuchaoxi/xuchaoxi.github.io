@@ -1,0 +1,12 @@
+# Jobs
+# VP of Global Communications
+- company: Institute of Computing Technology, Chinese Academy of Sciences
+  position: Engineer
+  duration: 2020.7 &mdash; Present
+  summary: I work as an algorithm engineer in the Media Synthesis & Forensics Lab. As a core member of the team, I participated in the development of media forgery detection system and equipment, which was recognized with the <a href="http://www.cac.gov.cn/2022-11/09/c_1669622017501892.htm" target="_blank">2022 World Leading Internet Scientific and Technology Achievements award</a>. My current work focus is on several areas as following, and you are welcome to visit our WeChat mini-program to learn more.<ul class="resume-item-list"><img src="images/xiaochengxu.png" alt="xiaochengxu" style="float:right;width:95px;margin-top:-20px;margin-right:20px"> <li>Fake news detection</li><li>Speech synthesis and forensics</li><li>Pre-trained large model generated text detection</li></ul>
+
+# Director of Digital Stratgy
+- company: Vistel
+  position: Algorithm Engineer Intern
+  duration: 2018.11 &mdash; 2019.8
+  summary: I has been working on the automatic grading algorithm of nuclear cataract opacities, and proposed a fully deep learning method for grading. The research paper were early accepted by the top conference on medical image analysis (MICCAI 2019).

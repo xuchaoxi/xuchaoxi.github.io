@@ -1,0 +1,39 @@
+# Publications
+
+
+- authors: Jianfeng Dong, Xirong Li, <b>Chaoxi Xu</b>, Xun Yang, Gang Yang, Xun Wang, Meng Wang
+  title: Dual Encoding for Video Retrieval by Text
+  venue: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021 (CCF A, IF=24.314)
+
+- authors: Xirong Li, Fangming Zhou, <b>Chaoxi Xu</b>, Jiaqi Ji, Gang Yang
+  title: SEA:&nbsp;Sentence Encoder Assembly for Video Retrieval by Textual Queries
+  venue: IEEE Transactions on Multimedia (TMM), 2021 (CCF B, IF=8.182)
+
+- authors: Jakub Lokoč, Tomáš Souček, Patrik Veselý, František Mejzlík, Jiaqi Ji, <b>Chaoxi Xu</b>, Xirong Li
+  title: A W2VV++ Case Study with Automated and Interactive Text-to-Video Retrieval
+  venue: ACM Multimedia (ACMMM), 2020 (CCF A)
+
+- authors: Jianfeng Dong, Xun Wang, Leimin Zhang, <b>Chaoxi Xu</b>, Gang Yang, Xirong Li
+  title: Feature Re-Learning with Data Augmentation for Video Relevance Prediction
+  venue: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019 (CCF A, IF=9.235)
+
+# W2VV++
+- authors: Xirong Li, <b>Chaoxi Xu</b>, Gang Yang, Zhineng Chen, Jianfeng Dong
+  title: W2VV++:&nbsp;Fully Deep Learning for Ad-hoc Video Search
+  venue: ACM Multimedia (ACMMM), 2019 (CCF-A)
+
+- authors: <b>Chaoxi Xu</b>, Xiangjia Zhu, Wenwen He, Yi Lu, Xixi He, Zongjiang Shang, Jun Wu, Keke Zhang, Yinglei Zhang, Xianfang Rong, Zhennan Zhao, Lei Cai, Dayong Ding, Xirong Li
+  title: Fully Deep Learning for Slit-lamp Photo based Nuclear Cataract Grading
+  venue: International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019 (CCF B, early accept)
+
+- authors: Jianfeng Dong, Xirong Li, <b>Chaoxi Xu</b>, Shouling Ji, Yuan He, Gang Yang, Xun Wang
+  title: Dual encoding for zero-example video retrieval
+  venue: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (CCF A)
+
+- authors: Xirong Li, <b>Chaoxi Xu</b>, Xiaoxu Wang, Weiyu Lan, Zhengxiong Jia, Gang Yang, Jieping Xu
+  title: COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval
+  venue: IEEE Transactions on Multimedia (TMM), 2019 (CCF B, IF=8.182)
+
+- authors: Jianfeng Dong, Xirong Li, <b>Chaoxi Xu</b>, Gang Yang, Xun Wang
+  title: Feature re-learning with data augmentation for content-based video recommendation
+  venue: ACM Multimedia (ACMMM), 2018 (Grand challenge paper)
