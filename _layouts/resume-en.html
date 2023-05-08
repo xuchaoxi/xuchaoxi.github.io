@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <html>
 
   {% include head.html %}
@@ -266,12 +267,20 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <!--
       <footer class="page-footer">
+      <!--
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
         <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
       -->
+        <p class="footer-line">Last updated:
+            <script>
+                t = new Date(document.lastModified).toLocaleDateString()
+                document.write(t);
+            </script>
+            &nbsp;&nbsp;
+            <span id="busuanzi_container_site_pv">#Visit: <span id="busuanzi_value_site_pv"></span> </span>
+        </p>
+      </footer>
 
     </div>
 
